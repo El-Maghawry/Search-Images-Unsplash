@@ -8,5 +8,5 @@ export default axios.create({
       }
     }); 
 
-    // export const apiKey = 'Client-ID [your key] see api documentation for me info';
+    // export const apiKey = 'Client-ID [your key] see api documentation for more info';
 
