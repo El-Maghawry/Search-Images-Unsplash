@@ -11,10 +11,10 @@ class Searchbar extends React.Component {
     render() {
         return (
             <div>
-                <form className='ui form' onSubmit={this.onFromSubmit}>
-                    <div className="ui action input field">
+                <form className='ui form segment' onSubmit={this.onFromSubmit}>
+                    <div className="ui action input field flex">
 
-                        <input className='centered'
+                        <input className='field'
                             type="text" placeholder="Search..."
                             onChange={ (e) => this.setState({ term: e.target.value }) }
                             value= { this.state.term } />
