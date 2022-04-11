@@ -6,7 +6,7 @@
 
 
 ## Background
-Small project using React, this is part of my effort to get to know library properly to be comfortable working with it professionally.  The app allows you to search for images on Unsplash. Feel free to view the code (Unsplash developer account needed for API key ) or try it out (by pressing on the Vercel-online badge). I might return to this project in the future to add more functionality. Little time was spend on styling.
+Small project using React, this is part of my effort to get to know library properly to be comfortable working with it professionally.  The app allows you to search for images on Unsplash. Feel free to view the code (Unsplash developer account needed for API key) or try it out (by pressing on the Vercel-online badge). I might return to this project in the future to add more functionality. Little time was spend on styling.
 
 
 ## Credits
